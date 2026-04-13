@@ -1,0 +1,1 @@
+Generate the architecture blueprint of Rust based claw-code in directory of `./rust`
